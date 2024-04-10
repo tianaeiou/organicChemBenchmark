@@ -1,0 +1,19 @@
+{
+  "type": "multi-choice",
+  "difficulty": "",
+  "topic": "",
+  "required_ability": "",
+  "prompt_template": "",
+  "background_text": [
+    "The addition of hydrogen halides to double or triple carbon-carbon bonds can result in more than 1 product, as illustrated in Reactions 1 and 2. A chemist postulated that the formation of Products A and C involves a carbocation inter-mediate, whereas Products B and D result from a competing radical-chain addition.\n It was discovered that the results of these additions were strongly affected by the reaction conditions. For example, when Reactions 1 and 2 were carried out in the presence of silica gel ( $SiO_2 $ ) or alumina ( $Al_2O_3$ ) surfaces, the yields and product distributions were dramatically altered. Tables 1 and 2 summarize the effects of the reaction conditions on the results of Reactions 1 and 2."
+  ],
+  "background_image": [
+    "Reaction1.png",
+    "Reaction2.png",
+    "Table1.png",
+    "Table2.png"
+  ],
+  "background_table": [],
+  "question": "Which of the following is most likely the predominant competing reaction in Reaction 2?\n(a) Rearrangement of carbocationic intermediates\n(b) Migration of the double bond in the product alkenes\n(c) Reduction of the product alkenes with $H_2$\n(d) Addition of HX to the product alkenes",,,
+  "memo": "redundant background information"
+}

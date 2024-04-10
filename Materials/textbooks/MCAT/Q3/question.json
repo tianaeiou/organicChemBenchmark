@@ -1,0 +1,23 @@
+{
+  "type": "multi-choice",
+  "difficulty": "",
+  "topic": "",
+  "required_ability": "",
+  "prompt_template": "",
+  "background_text": [
+    "The addition of hydrogen halides to double or triple carbon-carbon bonds can result in more than 1 product, as illustrated in Reactions 1 and 2. A chemist postulated that the formation of Products A and C involves a carbocation inter-mediate, whereas Products B and D result from a competing radical-chain addition.\n It was discovered that the results of these additions were strongly affected by the reaction conditions. For example, when Reactions 1 and 2 were carried out in the presence of silica gel ( $SiO_2 $ ) or alumina ( $Al_2O_3$ ) surfaces, the yields and product distributions were dramatically altered. Tables 1 and 2 summarize the effects of the reaction conditions on the results of Reactions 1 and 2."
+  ],
+  "background_image": [
+    "Reaction1.png",
+    "Reaction2.png",
+    "Table1.png",
+    "Table2.png",
+    "a.png",
+    "b.png",
+    "c.png",
+    "d.png"
+  ],
+  "background_table": [],
+  "question": "Which of the following is the structure of the carbocation intermediate that will result in the formation of Product C? (a), (b), (c), (d)",
+  "memo": "choices are images"
+}
