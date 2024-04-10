@@ -1,0 +1,10 @@
+{
+  "type": "free answer",
+  "num_questions": 1,
+  "difficulty": "challenge",
+  "required_ability": "",
+  "prompt_template": "",
+  "chapter": "5-48",
+  "question": "Natural epinephrine, $[\\alpha]_D^{25^oC}=-50$, is used medicinally. Its enantiomer is medically worthless and is, in fact, toxic. You, a pharmacist, are given a solution said to contain 1 g of epinephrine in 20 mL of liquid, but the optical purity is not specified. You place it in a polarimeter (10-cm tube) and get a reading of $-2.5^o$. What is the optical purity of the sample? Is it safe to use medicinally?",
+  "memo": ""
+}

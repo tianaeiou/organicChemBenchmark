@@ -1,0 +1,10 @@
+{
+  "type": "multi-choice",
+  "num_questions": 1,
+  "difficulty": "preprofessional",
+  "required_ability": "",
+  "prompt_template": "",
+  "chapter": "10-65",
+  "question": "In the $^1H$ NMR spectrum of 1-fluorobutane, the most deshielded hydrogens are those bound to \n\n**(a)** $C_4$\n\n **(b)** $C_3$ \n\n**(c)** $C_2$ \n\n**(d)** $C_1$",
+  "memo": ""
+}

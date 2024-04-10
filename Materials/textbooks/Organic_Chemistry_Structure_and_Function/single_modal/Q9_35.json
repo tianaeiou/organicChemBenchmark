@@ -1,0 +1,10 @@
+{
+  "type": "free answer",
+  "num_questions": 2,
+  "difficulty": "",
+  "required_ability": "",
+  "prompt_template": "",
+  "chapter": "9-35",
+  "question": "Primary alcohols are often converted into bromides by reaction with $NaBr$ in $H_2SO_4$. Explain how this transformation works and why it might be considered a superior method to that using concentrated aqueous $HBr$.\n\n$CH_3CH_2CH_2CH_2OH \\stackrel{NaBr, H_2SO_4}{\\longrightarrow}  CH_3CH_2CH_2CH_2Br$\n\n",
+  "memo": ""
+}

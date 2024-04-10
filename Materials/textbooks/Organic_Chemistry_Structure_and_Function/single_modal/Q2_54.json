@@ -1,0 +1,10 @@
+{
+  "type": "multi-choice",
+  "num_questions": 1,
+  "difficulty": "preprofessional",
+  "required_ability": "",
+  "prompt_template": "",
+  "chapter": "2-54",
+  "question": "In 4-(1-methylethyl)heptane, any H–C–C angle has the value\n(a) 120 degree  \n(b) 109.5 degree  \n(c) 180 degree \n(d) 90 degree \n(e) 360 degree",
+  "memo": ""
+}

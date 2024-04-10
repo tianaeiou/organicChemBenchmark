@@ -1,0 +1,10 @@
+{
+  "type": "free answer/rank",
+  "num_questions": 1,
+  "difficulty": "",
+  "required_ability": "",
+  "prompt_template": "",
+  "chapter": "6-47",
+  "question": "Rank the members of each of the following groups of species in the order of basicity, nucleophi- licity, and leaving-group ability. Briefly explain your answers. (a) $H_2O$, $HO^-$, $CH_3CO_2^-$; (b) $Br^-$, $Cl^-$, $F^-$, $I^-$; (c) $^-NH_2$, $NH_3$, $^-PH_2$; (d) $^-OCN$, $^-SCN$; (e) $F^-$, $HO^-$, $^-SCH_3$; (f) $H_2O$, $H_2S$, $NH_3$.",
+  "memo": ""
+}

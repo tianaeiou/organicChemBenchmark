@@ -1,0 +1,10 @@
+{
+  "type": "multi-choice",
+  "num_questions":1 ,
+  "difficulty": "preprofessional",
+  "required_ability": "",
+  "prompt_template": "",
+  "chapter": "3-48",
+  "question": "In a competition reaction, equimolar amounts of the four alkanes shown were allowed to react with a limited amount of $Cl_2$ at $300^oC$. Which one of these alkanes would be depleted most from the mixture?\n(a) Pentane \n(b) 2-Methylpropane \n(c) Butane \n(d) Propane\n\n",
+  "memo": ""
+}

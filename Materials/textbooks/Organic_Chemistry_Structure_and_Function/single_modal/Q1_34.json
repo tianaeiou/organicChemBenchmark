@@ -1,0 +1,10 @@
+{
+  "type": "free answer/rank",
+  "num_questions": 4,
+  "difficulty": "",
+  "required_ability": "",
+  "prompt_template": "",
+  "chapter": "1-34",
+  "question": "Use a molecular-orbital analysis to predict which species in each of the following pairs has the stronger bonding between atoms. (a)  $H_2$ or $H_2^+$  (b) $He_2$ or $He_2^+$  (c) $O_2$ or $O_2^+$  (d) $N_2$ or $HN2^+$ ",
+  "memo": ""
+}

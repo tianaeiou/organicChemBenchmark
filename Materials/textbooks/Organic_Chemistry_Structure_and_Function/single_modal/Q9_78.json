@@ -1,0 +1,10 @@
+{
+  "type": "multi-choice",
+  "num_questions": 1,
+  "difficulty": "preprofessional",
+  "required_ability": "",
+  "prompt_template": "",
+  "chapter": "9-78",
+  "question": "Which is the method of choice for preparing the ether $(CH_3CH_2)_3COCH_3$?\n(a) $CH_3Br + (CH_3CH_2)_3CO^-K^+$ \n\n(b) $(CH_3CH_2)_3COH + CH_3MgBr$ \n\n(c) $(CH_3CH_2)_3CMgBr + CH_3OH$ \n\n(d) $(CH_3CH_2)_3CBr + CH_3O^-K^+$\n\n",
+  "memo": ""
+}

@@ -1,0 +1,10 @@
+{
+  "type": "free answer",
+  "num_questions": 6,
+  "difficulty": "",
+  "required_ability": "",
+  "prompt_template": "",
+  "chapter": "9-50",
+  "question": "Give the expected major product of reaction of 2,2-dimethyloxacyclopropane with each of the following reagents.\n\n(a) Dilute $H_2SO_4$ in $CH_3OH$\u200B\n\n(b) $Na^{+-}OCH_3$ in $CH_3OH$  \n\n(c) Dilute, aqueous $HBr$\n\n(d) Concentrated $HBr$ \n\n(e) $CH_3MgI$, then $H^+$, $H_2O$\n\n(f) $C_6H_5Li$, then $H^+$, $H_2O$",
+  "memo": ""
+}

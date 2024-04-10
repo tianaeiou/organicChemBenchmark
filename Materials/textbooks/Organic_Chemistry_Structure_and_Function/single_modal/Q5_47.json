@@ -1,0 +1,10 @@
+{
+  "type": "free answer",
+  "num_questions": 1,
+  "difficulty": "challenge",
+  "required_ability": "",
+  "prompt_template": "",
+  "chapter": "5-47",
+  "question": "For each of the following questions, assume that all measurements are made in 10-cm polarimeter sample containers. (a) A 10-mL solution of 0.4 g of optically active 2-butanol in water displays an optical rotation of $-0.56^o$. What is its specific rotation? (b) The specific rotation of sucrose (common sugar) is +66.4. What would be the observed optical rotation of such a solution containing 3 g of sucrose? (c) A solution of pure ($S$)-2-bromobutane in ethanol is found to have an observed $\\alpha =  57.3^o$. If $[a]$ for ($S$)-2-bromobutane is 23.1, what is the concentration of the solution?\n\n",
+  "memo": ""
+}

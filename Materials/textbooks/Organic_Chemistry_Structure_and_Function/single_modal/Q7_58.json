@@ -1,0 +1,10 @@
+{
+  "type": "free answer",
+  "num_questions": 8,
+  "difficulty": "",
+  "required_ability": "",
+  "prompt_template": "",
+  "chapter": "7-58",
+  "question": "Give the mechanism and major product for the reaction of a secondary haloalkane in a polar aprotic solvent with the following nucleophiles. The $pK_a$ value of the conjugate acid of the nucleophile is given in parentheses.\n(a) $N3^-$ (4.6)\n(b) $H_2N^-$ (35) \n(c) $NH_3$ (9.5)\n(d) $HSe^-$ (3.7)\n(e) $F^-$ (3.2)\n(f) $C_6H_5O^-$ (9.9)\n(g) $PH_3$ (-12)\n(h) $NH_2OH$ (6.0)\n(i) $NCS^-$ (-0.7)",
+  "memo": ""
+}

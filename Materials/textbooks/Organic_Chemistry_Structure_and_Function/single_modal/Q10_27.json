@@ -1,0 +1,10 @@
+{
+  "type": "free answer",
+  "num_questions": 5,
+  "difficulty": "",
+  "required_ability": "",
+  "prompt_template": "",
+  "chapter": "10-27",
+  "question": "Convert each of the following quantities into energies, in kcal $mol^{-1}$. **(a)** A bond rotation of 750 wavenumbers ($cm^{-1}$); **(b)** a bond vibration of 2900 wavenumbers ($cm^{-1}$); **(c)** an electronic transition of 350 nm (ultraviolet light, capable of sunburn); **(d)** the broadcast frequency of the audio signal of TV channel 6 (87.25 MHz; before the advent of digital TV in 2009); **(e)** a “hard” X-ray with a 0.07-nm wavelength.",
+  "memo": ""
+}

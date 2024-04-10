@@ -1,0 +1,10 @@
+{
+  "type": "free answer",
+  "num_questions": 4,
+  "difficulty": "",
+  "required_ability": "",
+  "prompt_template": "",
+  "chapter": "10-26",
+  "question": "Convert each of the following quantities into the specified units. \n\n(a) $1050 cm^{-1}$ into $\\lambda$, in $\\mu$m; \n\n(b) $510 nm$ (green light) into $v$, in $s^{-1}$ (cycles $s^{-1}$, or hertz);\n\n(c) $6.15 \\mu$m into $\\widetilde{v}$, in $cm^{-1}$; \n\n(d) $2250 cm^{-1}$ into $v$, in $s^{-1}$ (Hz).",
+  "memo": ""
+}

@@ -1,0 +1,10 @@
+{
+  "type": "free answer/rank",
+  "num_questions": 1,
+  "difficulty": "",
+  "required_ability": "",
+  "prompt_template": "",
+  "chapter": "2-41",
+  "question": "Rank the following molecules in order of increasing boiling point (without looking up the real values!): (a) 3-methylheptane; (b) octane; (c) 2,4-dimethylhexane; (d) 2,2,4- trimethylpentane.",
+  "memo": ""
+}

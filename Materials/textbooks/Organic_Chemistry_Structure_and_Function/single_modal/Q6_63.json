@@ -1,0 +1,10 @@
+{
+  "type": "multi-choice",
+  "num_questions": 1,
+  "difficulty": "preprofessional",
+  "required_ability": "",
+  "prompt_template": "",
+  "chapter": "6-63",
+  "question": "The $S_N2$ reaction mechanism best applies to:\n(a) cyclopropane and $H_2$ \n(b) 1-chlorobutane and aqueous $NaOH$\n(c) $KOH$ and $NaOH$ \n(d) ethane and $H_2O$",
+  "memo": ""
+}

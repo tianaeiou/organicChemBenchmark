@@ -1,0 +1,10 @@
+{
+  "type": "free answer/rank",
+  "num_questions": 1,
+  "difficulty": "",
+  "required_ability": "",
+  "prompt_template": "",
+  "chapter": "8-30",
+  "question": "Rank the compounds in each group in order of decreasing acidity.\n(a) $CH_3CHClCH_2OH, CH_3CHBrCH_2OH, BrCH_2CH_2CH_2OH$\n(b) $CH_3CCl_2CH_2OH, CCl_3CH_2OH, (CH_3)_2CClCH_2OH$\n(c) $(CH_3)_2CHOH, (CF_3)_2CHOH, (CCl_3)_2CHOH$",
+  "memo": ""
+}

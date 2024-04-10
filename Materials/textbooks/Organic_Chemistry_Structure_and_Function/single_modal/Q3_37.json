@@ -1,0 +1,10 @@
+{
+  "type": "free answer",
+  "num_questions":1 ,
+  "difficulty": "challenge",
+  "required_ability": "",
+  "prompt_template": "",
+  "chapter": "3-37",
+  "question": "When an alkane with different types of $C–H$ bonds, such as propane, reacts with an equimolar mixture of $Br_2$ and $Cl_2$, the selectivity in the formation of the brominated products is much worse than that observed when reaction is carried out with $Br_2$ alone. (In fact, it is very similar to the selectivity for chlorination.) Explain.",
+  "memo": ""
+}

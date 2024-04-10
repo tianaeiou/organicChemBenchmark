@@ -1,0 +1,10 @@
+{
+  "type": "multi-choice",
+  "num_questions": 1,
+  "difficulty": "preprofessional",
+  "required_ability": "",
+  "prompt_template": "",
+  "chapter": "9-77",
+  "question": "Identify the nucleophile in the following reaction:\n$RX + H_2O \\rightarrow ROH + H^+X^-$\n(a) $X^-$ \n\n(b) $H^+$ \n\n(c) $H_2O$ \n\n(d) $ROH$ \n\n(e) $RX$",
+  "memo": ""
+}

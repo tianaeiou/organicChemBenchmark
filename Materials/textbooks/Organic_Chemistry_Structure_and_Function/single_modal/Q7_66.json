@@ -1,0 +1,10 @@
+{
+  "type": "multi-choice",
+  "num_questions": 1,
+  "difficulty": "preprofessional",
+  "required_ability": "",
+  "prompt_template": "",
+  "chapter": "7-66",
+  "question": "Which reaction intermediate is involved in the following reaction?\n2-Methylbutane$\\stackrel{Br_2, hv}{\\longrightarrow}$2-bromo-3-methylbutane  (not the major product)\n(a) A secondary radical\n(b) A tertiary radical\n(c) A secondary carbocation\n(d) A tertiary carbocation",
+  "memo": ""
+}

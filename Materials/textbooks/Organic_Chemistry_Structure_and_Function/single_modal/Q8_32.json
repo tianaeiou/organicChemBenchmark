@@ -1,0 +1,10 @@
+{
+  "type": "free answer/calculate",
+  "num_questions": 3,
+  "difficulty": "",
+  "required_ability": "",
+  "prompt_template": "",
+  "chapter": "8-32",
+  "question": "Given the $pK_a$ values of -2.2 for $CH_3O^+H_2$ and 15.5 for $CH_3OH$, calculate the pH at which (a) methanol will contain exactly equal amounts of $CH_3O^+H_2$ and $CH_3O^-$; (b) 50% $CH_3OH$ and 50% $CH_3O^+H_2$ will be present; (c) 50% $CH_3OH$ and 50% $CH_3O^-$ will be present.",
+  "memo": ""
+}

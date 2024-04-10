@@ -1,0 +1,10 @@
+{
+  "type": "multi-choice",
+  "num_questions": 1,
+  "difficulty": "preprofessional",
+  "required_ability": "",
+  "prompt_template": "",
+  "chapter": "6-65",
+  "question": "Which ion is the strongest nucleophile in aqueous solution?\n(a) $F^-$ \n(b) $Cl^-$ \n(c) $Br^-$ \n(d) $I^-$ \n(e) all of these are equally strong",
+  "memo": ""
+}

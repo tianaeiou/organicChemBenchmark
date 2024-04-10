@@ -1,0 +1,10 @@
+{
+  "type": "free answer",
+  "num_questions": 4,
+  "difficulty": "",
+  "required_ability": "",
+  "prompt_template": "",
+  "chapter": "7-33",
+  "question": "Give the product of each of the following substitution reactions. Which of these transformations should proceed faster in a polar, aprotic solvent (such as acetone or $DMSO$) than in a polar, protic solvent (such as water or $CH_3OH$)? Explain your answer on the basis of the mechanism that you expect to be operating in each case.\n(a) $CH_3CH_2CH_2Br + Na^{+} \\quad   ^-CN \\rightarrow$\n(b) $(CH_3)_2CHCH_2I + Na^{+} N_3^- \\rightarrow$   \n(c) $(CH_3)_3CBr + HSCH_2CH_3 \\rightarrow$  \n(d) $(CH_3)_2CHOSO_2CH_3+ HOCH(CH_3)_2 \\rightarrow$",
+  "memo": ""
+}

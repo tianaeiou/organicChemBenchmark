@@ -1,0 +1,10 @@
+{
+  "type": "multi-choice",
+  "num_questions":1 ,
+  "difficulty": "preprofessional",
+  "required_ability": "",
+  "prompt_template": "",
+  "chapter": "3-49",
+  "question": "The reaction of $CH_4$ with $Cl_2$ to yield $CH_3Cl$ and $HCl$ is well known. On the basis of the values in the short table below, the enthalpy $\\Delta H^o (kcal mol^{-1})$ of this reaction is (a) +135 \n(b) -135 \n(c) +25 \n(d) -25\n\nBond-Dissociation Energies $\\Delta H^o (kcal mol^{-1})$     \n|||| |\n| ---- | ---- | ---- | ---- |\n|H–Cl  |   103   |  Cl–Cl    |   58   | \n|H3C–Cl|   103   |    H3C–H  |   105   | ",
+  "memo": ""
+}

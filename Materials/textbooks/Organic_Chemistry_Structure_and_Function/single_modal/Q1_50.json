@@ -1,0 +1,10 @@
+{
+  "type": "free answer/rank",
+  "num_questions": 1,
+  "difficulty": "",
+  "required_ability": "",
+  "prompt_template": "",
+  "chapter": "1-50",
+  "question": "A number of substances containing positively polarized carbon atoms have been labeled as “cancer suspect agents”  (i.e., suspected carcinogens or cancer-inducing compounds). It has been suggested that the presence of such carbon atoms is responsible for the carcinogenic properties of these molecules. Assuming that the extent of polarization is proportional to carcinogenic potential, how would you rank the following compounds with regard to cancer- causing potency?\n(a) $CH_3Cl$    (b) $(CH_3)_4Si$    (c) $ClCH)2OCH)2Cl$    (d) $CH_3OCH_2Cl$    (e) $(CH_3)_3C^+$\n(Note: Polarization is only one of the many factors known to be related to carcinogenicity. More- over, none of them shows the type of straightforward correlation implied in this question.)",
+  "memo": ""
+}

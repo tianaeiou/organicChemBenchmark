@@ -1,0 +1,10 @@
+{
+  "type": "free answer/calculation",
+  "num_questions": 4,
+  "difficulty": "",
+  "required_ability": "",
+  "prompt_template": "",
+  "chapter": "6-40",
+  "question": "A solution containing 0.1 M $CH_3Cl$ and 0.1 M $KSCN$ in $DMF$ reacts to give $CH_3SCN$ and $KCl$ with an initial rate of $2* 10^{-8}  mol L^{-1} s{-1}$. \n(a) What is the rate constant for this reaction?   (b) Calculate the initial reaction rate for each of the following sets of reactant concentrations:  (i) $[CH_3Cl]=  0.2 M,  [KSCN] 5 0.1 M$;  (ii)$ [CH_3Cl] = 0.2 M, [KSCN] = 0.3 M$;  (iii) $[CH_3Cl] = 0.4 M, [KSCN] = 0.4 M$.",
+  "memo": ""
+}

@@ -1,0 +1,10 @@
+{
+  "type": "multi-choice",
+  "num_questions": 1,
+  "difficulty": "preprofessional",
+  "required_ability": "",
+  "prompt_template": "",
+  "chapter": "7-62",
+  "question": "Which of the following haloalkanes will undergo hydrolysis most rapidly?\n(a) $(CH_3)_3CF$\n(b) $(CH_3)_3CCl$ \n(c) $(CH_3)_3CBr$\n(d) $(CH_3)_3CI$",
+  "memo": ""
+}

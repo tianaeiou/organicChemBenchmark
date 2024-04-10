@@ -1,0 +1,10 @@
+{
+  "type": "multi-choice",
+  "num_questions": 1,
+  "difficulty": "preprofessional",
+  "required_ability": "",
+  "prompt_template": "",
+  "chapter": "2-52",
+  "question": "The compound 2-methylbutane has\n(a) no secondary H’s \n(b) no tertiary H’s \n(c) no primary H’s\n(d) twice as many secondary H’s as tertiary H’s\n(e) twice as many primary H’s as secondary H’s",
+  "memo": ""
+}

@@ -1,0 +1,10 @@
+{
+  "type": "free answer",
+  "num_questions": 1,
+  "difficulty": "challenge",
+  "required_ability": "",
+  "prompt_template": "",
+  "chapter": "6-52",
+  "question": "Iodoalkanes are readily prepared from the corresponding chloro compounds by $S_N2$ reaction with sodium iodide in acetone. This particular procedure is especially useful because the inorganic by-product, sodium chloride, is insoluble in acetone; its precipitation drives the equi- librium in the desired direction. Thus, it is not necessary to use excess $NaI$, and the process goes to completion in a very short time. Because of its great convenience, this method is named after its developer (the Finkelstein reaction). In an attempt to synthesize optically pure ($R$)-2-iodoheptane, a student prepared a solution of ($S$)-2-chloroheptane in acetone. In order to ensure success, he added excess sodium iodide and allowed the mixture to stir over the weekend. His yield of 2-iodoheptane was high, but, to his dismay, he found that his product was racemic. Explain.",
+  "memo": ""
+}

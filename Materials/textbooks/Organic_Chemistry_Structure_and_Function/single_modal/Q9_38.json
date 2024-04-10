@@ -1,0 +1,10 @@
+{
+  "type": "free answer",
+  "num_questions": 14,
+  "difficulty": "",
+  "required_ability": "",
+  "prompt_template": "",
+  "chapter": "9-38",
+  "question": "Give the expected product(s) of the reaction of 1-pentanol with each of the following reagents.\n\n(a) $K^{+-}OC(CH_3)_3$\n\n(b) Sodium metal\n\n(c) $CH_3Li$\n\n(d) Concentrated $HI$ \n\n(e) Concentrated $HCl$ \n\n(f) $FSO_3H$\n\n(g) Concentrated $H_2SO_4$ at 130°C \n\n(h) Concentrated $H_2SO_4$ at 180°C \n\n(i) $CH_3SO_2Cl, (CH_3CH_2)_3N$ \n\n( j) $PBr_3$ \n\n(k) $SOCl_2$ \n\n(l) $K_2Cr_2O_7 + H_2SO_4 + H_2O$ \n\n(m) $PCC, CH_2Cl_2$ \n\n(n) $(CH_3)_3COH + H_2SO_4$ (as catalyst)",
+  "memo": ""
+}

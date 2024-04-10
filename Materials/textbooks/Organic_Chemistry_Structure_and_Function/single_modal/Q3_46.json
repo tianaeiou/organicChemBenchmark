@@ -1,0 +1,10 @@
+{
+  "type": "multi-choice",
+  "num_questions":1 ,
+  "difficulty": "preprofessional",
+  "required_ability": "",
+  "prompt_template": "",
+  "chapter": "3-46",
+  "question": "The reaction $CH_4+ Cl_2 \\rightarrow CH_3Cl + HCl$ is an example of\n(a) neutralization\n(b) an acidic reaction\n(c) an isomerization\n(d) an ionic reaction\n(e) a radical chain reaction",
+  "memo": ""
+}

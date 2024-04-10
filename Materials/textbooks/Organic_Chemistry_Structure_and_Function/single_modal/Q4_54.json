@@ -1,0 +1,10 @@
+{
+  "type": "multi-choice",
+  "num_questions":1 ,
+  "difficulty": "preprofessional",
+  "required_ability": "",
+  "prompt_template": "",
+  "chapter": "4-54",
+  "question": "Which of the following cycloalkanes has the greatest ring strain?\n(a) Cyclopropane\n(b) Cyclobutane\n(c) Cyclohexane\n(d) Cycloheptane",
+  "memo": ""
+}

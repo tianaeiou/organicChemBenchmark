@@ -1,0 +1,10 @@
+{
+  "type": "multi-choice",
+  "num_questions": 1,
+  "difficulty": "preprofessional",
+  "required_ability": "",
+  "prompt_template": "",
+  "chapter": "9-76",
+  "question": "The first step in the detailed mechanism for the dehydration of 1-propanol with concentrated\n$H_2SO_4$ would be\n(a) loss of $OH^-$ \n\n(b) formation of a sulfate ester \n\n(c) protonation of the alcohol \n\n(d) loss of $H^+$ by the alcohol \n\n(e) elimination of $H_2O$ by the alcohol",
+  "memo": ""
+}

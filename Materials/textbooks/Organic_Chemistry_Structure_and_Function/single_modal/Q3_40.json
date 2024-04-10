@@ -1,0 +1,10 @@
+{
+  "type": "free answer",
+  "num_questions":1 ,
+  "difficulty": "challenge",
+  "required_ability": "",
+  "prompt_template": "",
+  "chapter": "3-40",
+  "question": "The addition of certain materials called radical inhibitors to halogenation reactions causes the reactions to come to a virtually complete stop. An example is the inhibition by $I_2$ of the chlorination of methane. Explain how this inhibition might come about. (Hint: Calculate $\\Delta H^o$ values for possible reactions of the various species present in the system with $I_2$, and evaluate the possible further reactivity of the products of these $I_2$ reactions.)",
+  "memo": ""
+}

@@ -1,0 +1,10 @@
+{
+  "type": "free answer",
+  "num_questions": 2,
+  "difficulty": "",
+  "required_ability": "",
+  "prompt_template": "",
+  "chapter": "10-28",
+  "question": "Calculate to three significant figures the amount of energy absorbed by a hydrogen when it undergoes an $\\alpha$-to-$\\beta$ spin flip in the field of **(a)** a 2.11-$T$ magnet ($n=90 MHz$); **(b)** an 11.75-$T$ magnet ($n =500 MHz$).",
+  "memo": ""
+}

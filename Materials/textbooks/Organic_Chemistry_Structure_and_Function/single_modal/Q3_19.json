@@ -1,0 +1,10 @@
+{
+  "type": "free answer/calculation",
+  "num_questions":8 ,
+  "difficulty": "",
+  "required_ability": "",
+  "prompt_template": "",
+  "chapter": "3-19",
+  "question": "Calculate $\\Delta H^o$ values for the following reactions. \n(a) $H_2  +  F_2 \\rightarrow 2 HF$;\n(b) $H_2 + Cl_2 \\rightarrow 2HCl$;\n(c) $H_2+Br_2 \\rightarrow 2HBr$;\n(d)  $H_2+I_2 \\rightarrow 2HI$;\n(e)  $(CH_3)_3CH+F_2 \\rightarrow (CH_3)_3CF + HF$;\n(f)  $(CH_3)_3CH+Cl_2 \\rightarrow (CH_3)_3CCl + HCl$;\n(g)  $(CH_3)_3CH+Br_2 \\rightarrow (CH_3)_3Brl + HBr$;\n(h)  $(CH_3)_3CH+I_2 \\rightarrow (CH_3)_3CI + HI$.",
+  "memo": ""
+}

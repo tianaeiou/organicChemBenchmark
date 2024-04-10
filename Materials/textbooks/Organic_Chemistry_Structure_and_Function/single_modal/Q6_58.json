@@ -1,0 +1,10 @@
+{
+  "type": "free answer",
+  "num_questions": 1,
+  "difficulty": "",
+  "required_ability": "",
+  "prompt_template": "",
+  "chapter": "6-58",
+  "question": "The following table presents rate data for the reactions of $CH_3I$ with three different nucleophiles in two different solvents. What is the significance of these results regarding relative reactivity of nucleophiles under different conditions?\n\n| Nucleophile     | $k_{rel},CH_3OH$     |  $k_{rel},DMF$     |\n| ---- | ---- | ---- |\n|  $Cl^-$    |   1   |  $1.2*10^6$    |\n|   $Br^-$   |   20   |  $6*10^5$     |\n|   $NCSe^-$   |   4000   |  $6*10^5$     |",
+  "memo": ""
+}

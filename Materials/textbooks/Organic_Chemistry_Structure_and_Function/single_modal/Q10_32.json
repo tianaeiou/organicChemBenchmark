@@ -1,0 +1,10 @@
+{
+  "type": "free answer",
+  "num_questions": 3,
+  "difficulty": "",
+  "required_ability": "",
+  "prompt_template": "",
+  "chapter": "10-32",
+  "question": "The $^1H$ NMR spectrum of $CH_3COCH_2C(CH_3)_3$, 4,4-dimethyl-2-pentanone, taken at 300 MHz, shows signals at the following positions: 307, 617, and 683 Hz downfield from tetramethylsilane. **(a)** What are the chemical shifts ($\\delta$\u200B) of these signals? **(b)** What would their positions be in hertz, relative to tetramethylsilane, if the spectrum were recorded at 90 MHz? At 500 MHz? **(c)** Assign each signal to a set of hydrogens in the molecule.",
+  "memo": ""
+}

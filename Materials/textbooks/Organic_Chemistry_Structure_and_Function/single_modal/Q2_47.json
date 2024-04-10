@@ -1,0 +1,10 @@
+{
+  "type": "free answer/calculation",
+  "num_questions": 3,
+  "difficulty": "challenge",
+  "required_ability": "",
+  "prompt_template": "",
+  "chapter": "2-47",
+  "question": "Using the Arrhenius equation, calculate the effect on $k$ of increases in temperature of 10, 30, and 50 degrees (Celsius) for the following activation energies. Use 300 K (approximately room temperature) as your initial $T$ value, and assume that $A$ is a constant.\n(a) $E_a = 15\\quad kcal \\quad mol^{-1}$;   (b) $E_a = 30\\quad kcal \\quad mol^{-1}$;   (c) $E_a = 45\\quad kcal \\quad mol^{-1}$.",
+  "memo": ""
+}

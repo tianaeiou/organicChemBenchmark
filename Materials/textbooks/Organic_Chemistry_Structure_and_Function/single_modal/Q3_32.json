@@ -1,0 +1,10 @@
+{
+  "type": "free answer",
+  "num_questions":1 ,
+  "difficulty": "",
+  "required_ability": "",
+  "prompt_template": "",
+  "chapter": "3-32",
+  "question": "At room temperature, 1,2-dibromoethane exists as an equilibrium mixture in which 89% of the molecules are in an anti conformation and 11% are gauche. The comparable ratio for butane under the same circumstances is 72% anti and 28% gauche. Suggest an explanation for the dif- ference, bearing in mind that $Br$ is sterically smaller than $CH_3$. (Hint: Consider the polarity of a $C–Br$ bond and consequent electrostatic effects.)",
+  "memo": ""
+}

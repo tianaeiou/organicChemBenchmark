@@ -1,0 +1,10 @@
+{
+  "type": "free answer",
+  "num_questions": 4,
+  "difficulty": "",
+  "required_ability": "",
+  "prompt_template": "",
+  "chapter": "10-57",
+  "question": "From each group of three molecules, choose the one whose structure is most consistent with the proton-decoupled$^{13}C$ NMR data. Explain your choices. **(a)** $CH_3(CH_2)_4CH_3$, $(CH_3)_3CCH_2CH_3$, $(CH_3)_2CHCH(CH_3)_2$; $\\delta$ =19.5 and 33.9 ppm. **(b)** 1-Chlorobutane, 1-chloropentane, 3-chloropentane; $\\delta$ =13.2, 20.0, 34.6, and 44.6 ppm. **(c)** Cyclopentanone, cycloheptanone, cyclononanone; $\\delta$ = 24.0, 30.0, 43.5, and 214.9 ppm. **(d)** $ClCH_2CHClCH_2Cl$, $CH_3CCl_2CH_2Cl$, $CH_2 = CHCH_2Cl$; $\\delta$= 45.1, 118.3, and 133.8 ppm.",
+  "memo": ""
+}

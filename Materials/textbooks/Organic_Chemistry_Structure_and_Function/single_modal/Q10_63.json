@@ -1,0 +1,10 @@
+{
+  "type": "multi-choice",
+  "num_questions": 1,
+  "difficulty": "preprofessional",
+  "required_ability": "",
+  "prompt_template": "",
+  "chapter": "10-63",
+  "question": "The molecule $(CH_3)_4Si$ (tetramethylsilane) is used as an internal standard in $^1H$ NMR spectros-\n\ncopy. One of the following properties makes it especially useful. Which one?\n **(a)** Highly paramagnetic\n\n**(b)** Highly colored\n\n**(c)** Highly volatile\n\n**(d)** Highly nucleophilic",
+  "memo": ""
+}

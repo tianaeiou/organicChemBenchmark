@@ -1,0 +1,10 @@
+{
+  "type": "free answer",
+  "num_questions": 2,
+  "difficulty": "",
+  "required_ability": "",
+  "prompt_template": "",
+  "chapter": "10-40",
+  "question": "**(a)** The $^1H$ NMR spectrum of a ketone with the molecular formula $C_6H_{12}O$ has  $\\delta$ =1.2 and 2.1 ppm (ratio 3 : 1). Propose a structure for this molecule. **(b)** Each of two isomeric molecules related to the ketone in (a) has the molecular formula $C_6H_{12}O_2$. Their  $^1H$ NMR spectra are described as follows: isomer 1, $\\delta$ =1.5 and 2.0 ppm (ratio 3:1); isomer 2, $\\delta$ =1.2 and 3.6 ppm (ratio 3:1). All signals in these spectra are singlets. Propose structures for these compounds. To what compound class do they belong?",
+  "memo": ""
+}

@@ -1,0 +1,10 @@
+{
+  "type": "free answer",
+  "num_questions": 1,
+  "difficulty": "preprocessing",
+  "required_ability": "",
+  "prompt_template": "",
+  "chapter": "8-63",
+  "question": "A compound known to contain only C, H, and O gives the following upon microanalysis (atomic weights: C=12.0, H=1.00, O=16.0): 52.%C, 13.1%H. It is found to have a boiling point of $78^oC$. Its structure is\n(a) $CH_3OCH_3$ \n(b) $CH_3CH_2OH$ \n(c) $HOCH_2CH_2CH_2CH_2OH$ \n(d )$HOCH_2CH_2CH_2OH$ \n(e) none of these",
+  "memo": ""
+}

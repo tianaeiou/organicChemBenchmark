@@ -1,0 +1,10 @@
+{
+  "type": "free answer/classify",
+  "num_questions": 4,
+  "difficulty": "",
+  "required_ability": "",
+  "prompt_template": "",
+  "chapter": "5-31",
+  "question": "Each part of this problem lists two objects or sets of objects. As precisely as you can, describe the relation between the two sets, specify whether they are identical, enantiomeric, or diastereomeric. (a) An American toy car compared with a British toy car (same color and design but steering wheels on opposite sides); (b) two left shoes compared with two right shoes (same color, size, and style); (c) a pair of skates compared with two left skates (same color, size, and style); (d) a right glove on top of a left glove (palm to palm) compared with a left glove on top of a right glove (palm to palm; same color, size, and style).",
+  "memo": ""
+}

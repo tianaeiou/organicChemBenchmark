@@ -1,0 +1,10 @@
+{
+  "type": "free answer",
+  "num_questions": 27,
+  "difficulty": "",
+  "required_ability": "",
+  "prompt_template": "",
+  "chapter": "2-27",
+  "question": "(i) Determine whether each species in the following equations is acting as a Brønsted acid or base, and label it. (ii) Indicate whether the equilibrium lies to the left or to the right. (iii) Estimate $K$ for each equation if possible. \n(a) $H_2O + HCN \\leftrightarrows H_3O^+ +  CN^-$\n(b) $CH_3O^- + NH_3 \\leftrightarrows CH_3OH + NH_2^-  $\n(c) $HF + CH_3COO^- \\leftrightarrows F^- + CH_3COOH$ \n(d) $CH_3^- + NH_3 \\leftrightarrows CH_4 + NH_2^-$\n(e) $H_3O^+ + Cl^- \\leftrightarrows H_2O + HCl$\n(f) $CH_3COOH + CH_3S^- \\leftrightarrows CH_3COO^- + CH_3SH$",
+  "memo": ""
+}

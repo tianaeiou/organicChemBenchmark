@@ -1,0 +1,10 @@
+{
+  "type": "free answer/classify",
+  "num_questions": 12,
+  "difficulty": "",
+  "required_ability": "",
+  "prompt_template": "",
+  "chapter": "5-30",
+  "question": "Classify each of the following common objects as being either chiral or achiral. Assume in each case that the object is in its simplest form, without decoration or printed labels. (a) A ladder; (b) a door; (c) an electric fan; (d) a refrigerator; (e) Earth; (f) a baseball; (g) a baseball bat; (h) a baseball glove; (i) a flat sheet of paper; (j) a fork; (k) a spoon; (l) a knife.",
+  "memo": ""
+}
