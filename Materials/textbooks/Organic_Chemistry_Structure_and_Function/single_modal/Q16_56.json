@@ -1,0 +1,10 @@
+{
+  "type": "free answer",
+  "num_questions": 1,
+  "difficulty": "challenge",
+  "required_ability": "",
+  "prompt_template": "",
+  "chapter": "16-56",
+  "question": "The *nitroso* group,$\\ce{-NO}$, as a substituent on a benzene ring acts as an ortho, para-directing group but is deactivating. Use the Lewis structure of the nitroso group and its inductive and resonance interactions with the benzene ring to explain this finding. (**Hint:** Consider possible similarities to another type of substituent that is ortho, para–directing but deactivating.)",
+  "memo": ""
+}

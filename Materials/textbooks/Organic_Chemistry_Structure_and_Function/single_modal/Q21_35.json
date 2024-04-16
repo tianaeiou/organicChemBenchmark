@@ -1,0 +1,10 @@
+{
+  "type": "free answer",
+  "num_questions": 3,
+  "difficulty": "",
+  "required_ability": "",
+  "prompt_template": "",
+  "chapter": "21-35",
+  "question": "In which direction would you expect each of the following equilibria to lie? \n\n**(a)** $\\ce{NH_3 + ^-OH <=> NH_2^- + H_2O}$\n**(b)** $\\ce{CH_3NH_2 + H_2O <=> CH_3NH_3^+ + ^-OH}$\n**(c)** $\\ce{CH_3NH_2 + (CH_3)_3NH^+ <=> CH_3NH_3^+ + (CH_3)_3N}$",
+  "memo": ""
+}

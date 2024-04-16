@@ -1,0 +1,10 @@
+{
+  "type": "free answer",
+  "num_questions": 1,
+  "difficulty": "",
+  "required_ability": "",
+  "prompt_template": "",
+  "chapter": "17-47",
+  "question": "The UV absorptions and colors of 2,4-dinitrophenylhydrazone derivatives of aldehydes and ketones depend sensitively on the structure of the carbonyl compound. Suppose that you are asked to identify the contents of three bottles whose labels have fallen off. The labels indicate that one bottle contained butanal, one contained *trans*-2-butenal, and one contained *trans*-3-phenyl-2- propenal. The 2,4-dinitrophenylhydrazones prepared from the contents of the bottles have the following characteristics.\n\nBottle 1: m.p. 187–188$\\degree C$; $\\lambda_{max}=377\\ nm$ ; orange color \n\nBottle 2: m.p. 121–122$\\degree C$;  $\\lambda_{max}=358\\ nm$; yellow color \n\nBottle 3: m.p. 252–253$\\degree C$, $\\lambda_{max}=377\\ nm$; red color\n\nMatch up the hydrazones with the aldehydes (*without* first looking up the melting points of these derivatives), and explain your choices. ",
+  "memo": ""
+}

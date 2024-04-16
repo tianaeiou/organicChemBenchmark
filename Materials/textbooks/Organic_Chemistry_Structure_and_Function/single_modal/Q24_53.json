@@ -1,0 +1,10 @@
+{
+  "type": "free answer",
+  "num_questions": 4,
+  "difficulty": "",
+  "required_ability": "",
+  "prompt_template": "",
+  "chapter": "24-53",
+  "question": "**(a)** Write a detailed mechanism for the isomerization of $\\beta$-$D$-fructofuranose from the hydrolysis of sucrose into an equilibrium mixture of the  $\\beta$-pyranose and  $\\beta$-furanose forms. **(b)** Although fructose usually appears as a furanose when it is part of a polysaccharide, in the pure crystalline form, fructose adopts a  $\\beta$-pyranose structure. In water at $20 \\degree C$, the equilibrium mixture contains about 68% $\\beta$-D- pyranose and 32% $\\beta$-D-furanose. **(c)** What is the free-energy difference between the pyranose and furanose forms at this temperature? **(d)** Pure $\\beta$-D-fructopyranose has $[\\alpha]_D^{20 \\degree C}=-132$. The equilibrium pyranose–furanose mixture has $[\\alpha]_D^{20 \\degree C}=-92$. Calculate $[\\alpha]_D^{20 \\degree C}$ for pure $\\beta$-D- fructofuranose.",
+  "memo": ""
+}

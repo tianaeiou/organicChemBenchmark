@@ -1,0 +1,10 @@
+{
+  "type": "multi-choice",
+  "num_questions": 1,
+  "difficulty": "preprofessional",
+  "required_ability": "",
+  "prompt_template": "",
+  "chapter": "17-65",
+  "question": "In the transformation shown here, which of the following compounds is most likely to be compound A (use IUPAC name)? **(a)** 5-Octyn-7-one; **(b)** 5-octyn-2-one; **(c)** 3-octyn-2-one; **(d)** 2-octyn-3-one.\n\n$\\ce{3-Ocytn-2-ol ->[CrO_3,H_2SO_4,acetone]}$",
+  "memo": ""
+}

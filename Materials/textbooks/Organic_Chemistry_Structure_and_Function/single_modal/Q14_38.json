@@ -1,0 +1,10 @@
+{
+  "type": "free answer/rank",
+  "num_questions": 1,
+  "difficulty": "",
+  "required_ability": "",
+  "prompt_template": "",
+  "chapter": "14-38",
+  "question": "Rank primary, secondary, tertiary, and (primary) allylic chlorides in approximate order of (a) decreasing $\\ce{S_N1}$ reactivity; (b) decreasing  $\\ce{S_N2}$ reactivity.",
+  "memo": ""
+}

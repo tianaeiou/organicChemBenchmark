@@ -1,0 +1,10 @@
+{
+  "type": "multi-choice",
+  "num_questions": 1,
+  "difficulty": "preprofessional",
+  "required_ability": "",
+  "prompt_template": "",
+  "chapter": "13-59",
+  "question": "The compound whose structure is $\\ce{H–C#C(CH_2)_3Cl}$ is best named (IUPAC)\n\n**(a)** 4-chloro-1-pentyne; **(b)** 5-chloropent-1-yne; **(c)** 4-pentyne-1-chloroyne; **(d)** 1-chloropent-4-yne.\n\n",
+  "memo": ""
+}

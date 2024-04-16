@@ -1,0 +1,10 @@
+{
+  "type": "free answer",
+  "num_questions": 4,
+  "difficulty": "",
+  "required_ability": "",
+  "prompt_template": "",
+  "chapter": "12-58",
+  "question": "$^1H$ NMR spectrum A corresponds to a molecule with the formula $C_3H_5Cl$. The compound shows significant IR bands at 730, 930, 980, 1630, and 3090 $cm_{-1}$. **(a)** Deduce the structure of the molecule. **(b)** Assign each NMR signal to a hydrogen or group of hydrogens. **(c)** The “doublet” at $\\delta$ = 4.05 ppm has $J$ = 6 Hz. Is this in accord with your assignment in (b)? **(d)** This “doublet,” upon fivefold expansion, becomes a doublet of triplets (inset, spectrum A), with $J \\approx 1$ Hz for the triplet splittings. What is the origin of this triplet splitting? Is it reasonable in light of your assignment in (b)?",
+  "memo": ""
+}

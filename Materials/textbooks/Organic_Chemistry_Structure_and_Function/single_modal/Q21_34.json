@@ -1,0 +1,10 @@
+{
+  "type": "free answer",
+  "num_questions": 1,
+  "difficulty": "",
+  "required_ability": "",
+  "prompt_template": "",
+  "chapter": "21-34",
+  "question": "Is a molecule whose conjugate acid has a high $\\ce{pK_a}$ value a stronger or a weaker base than a molecule whose conjugate acid has a low $\\ce{pK_a}$ value? Explain using a general equilibrium equation.",
+  "memo": ""
+}

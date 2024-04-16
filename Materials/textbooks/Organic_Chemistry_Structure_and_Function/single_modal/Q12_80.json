@@ -1,0 +1,10 @@
+{
+  "type": "multi-choice",
+  "num_questions": 1,
+  "difficulty": "preprofessional",
+  "required_ability": "",
+  "prompt_template": "",
+  "chapter": "12-80",
+  "question": "Which reaction intermediate is believed to be part of the following reaction? \n\n$\\ce{RCH=CH_2->[HBr, ROOR][]RCH_2CH_2Br}$\n\n**(a)** Radical; **(b)** carbocation; **(c)** oxacyclopropane; **(d)** bromonium ion.",
+  "memo": ""
+}

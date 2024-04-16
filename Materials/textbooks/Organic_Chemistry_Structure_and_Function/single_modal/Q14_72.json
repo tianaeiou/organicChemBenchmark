@@ -1,0 +1,10 @@
+{
+  "type": "free answer",
+  "num_questions": 1,
+  "difficulty": "",
+  "required_ability": "",
+  "prompt_template": "",
+  "chapter": "14-72",
+  "question": "The ultraviolet spectrum of a $2 \\times10 ^{-4}\\ M$ solution of 3-penten-2-one exhibits a $\\ce{\\pi -> \\pi^*}$ absorption at 224 nm with $A = 1.95$ and an $\\ce{\\pi -> \\pi^*}$ band at 314 nm with $A = 0.008$. Calculate the molar absorptivities (extinction coefficients) for these bands.",
+  "memo": ""
+}

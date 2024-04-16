@@ -1,0 +1,10 @@
+{
+  "type": "free answer",
+  "num_questions": 1,
+  "difficulty": "",
+  "required_ability": "",
+  "prompt_template": "",
+  "chapter": "15-46",
+  "question": "The species resulting from the addition of benzene to $\\ce{HF–SbF_5}$ shows the following $\\ce{^13C}$ NMR absorptions: $\\delta$= 52.2($\\ce{CH_2}$), 136.9($\\ce{CH}$), 178.1($\\ce{CH}$), and 186.6($\\ce{CH}$) ppm. The signals at $\\delta$= 136.9 and  $\\delta$\u200B= 186.6 are twice the intensity of the other peaks. Assign this spectrum.",
+  "memo": ""
+}

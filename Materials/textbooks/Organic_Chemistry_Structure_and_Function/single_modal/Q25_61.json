@@ -1,0 +1,10 @@
+{
+  "type": "multi-choice",
+  "num_questions": 1,
+  "difficulty": "",
+  "required_ability": "",
+  "prompt_template": "",
+  "chapter": "25-61",
+  "question": "The proton decoupled $\\ce{^{13}C}$ NMR spectrum of pyridine will display how many peaks? (a) One; (b) two; (c) three; (d) four; (e) five.",
+  "memo": ""
+}

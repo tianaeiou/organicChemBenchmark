@@ -1,0 +1,10 @@
+{
+  "type": "multi-choice",
+  "num_questions": 1,
+  "difficulty": "preprofessional",
+  "required_ability": "",
+  "prompt_template": "",
+  "chapter": "12-77",
+  "question": "A chiral compound, $C_5H_8$, upon simple catalytic hydrogenation, yields an achiral compound, $C_5H_{10}$. What is the best name for the former? **(a)** 1-Methylcyclobutene; **(b)** 3-methylcyclobutene; **(c)** 1,2-dimethylcyclopropene; **(d)** cyclopentene.",
+  "memo": ""
+}

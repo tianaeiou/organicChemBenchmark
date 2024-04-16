@@ -1,0 +1,10 @@
+{
+  "type": "multi-choice",
+  "num_questions": 1,
+  "difficulty": "preprofessional",
+  "required_ability": "",
+  "prompt_template": "",
+  "chapter": "16-63",
+  "question": "Among the following choices, the group that *activates* the benzene ring toward electrophilic aromatic substitution is **(a)** $\\ce{–NO_2}$; **(b)** $\\ce{-CF_3}$; **(c)** $\\ce{–CO_2H}$; **(d)** $\\ce{–OCH_3}$; **(e)** $\\ce{–Br}$.",
+  "memo": ""
+}

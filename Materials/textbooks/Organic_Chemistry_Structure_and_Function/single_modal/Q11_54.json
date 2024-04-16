@@ -1,0 +1,10 @@
+{
+  "type": "free answer",
+  "num_questions": 5,
+  "difficulty": "",
+  "required_ability": "",
+  "prompt_template": "",
+  "chapter": "11-54",
+  "question": "Convert each of the following IR frequencies into micrometers.\n**(a)** $1720 {cm}^{-1}\\quad C=O$ \n\n**(b)**$ 1650 {cm}^{-1}\\quad C=C$ \n\n**(c)** $3300 {cm}^{-1}\\quad O-H$ \n\n**(d)** $890 {cm}^{-1}$ (alkene bend) \n\n**(e)** $ 1100 {cm}^{-1}\\quad C-O$ ",
+  "memo": ""
+}

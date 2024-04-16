@@ -1,0 +1,10 @@
+{
+  "type": "free answer",
+  "num_questions": 6,
+  "difficulty": "",
+  "required_ability": "",
+  "prompt_template": "",
+  "chapter": "12-57",
+  "question": "Write the expected products of each of the following reactions.\n\n**a)**  (E)\\-2-Pentene + $CHCl_3\\stackrel{KOC(CH_3)_3, (CH_3)_3COH}{\\longrightarrow}$\n\n**(b)** 1-Methylcyclohexene + $CH_2Cl_2\\stackrel{Zu-Cu, (CH_3CH_2)_2O}{\\longrightarrow}$\n\n**(c)** Propene + $CH_2N_2\\stackrel{Cu,\\Delta}{\\longrightarrow}$ \n\n**(d)** (*Z*)-1,2-Diphenylethene + $CHBr_3\\stackrel{KOC(CH_3)_3, (CH_3)_3COH}{\\longrightarrow}$\n\n**(e)** (*E*)-1,3-Pentadiene + $CH_2Cl_2\\stackrel{Zu-Cu, (CH_3CH_2)_2O}{\\longrightarrow}$\n\n**(f)**  $CH_2=CHCH_2CH_2CH_2CHN_2\\stackrel{hv}{\\longrightarrow}$ ",
+  "memo": ""
+}

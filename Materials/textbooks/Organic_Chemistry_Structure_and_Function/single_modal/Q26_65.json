@@ -1,0 +1,10 @@
+{
+  "type": "multi-choice",
+  "num_questions": 1,
+  "difficulty": "",
+  "required_ability": "",
+  "prompt_template": "",
+  "chapter": "25-65",
+  "question": "The primary structure of a protein refers to: (a) cross-links with disulfide bonds; (b) presence of an a helix; (c) the a-amino acid sequence in the polypeptide chain; (d) the orientation of the side chains in three-dimensional space.",
+  "memo": ""
+}

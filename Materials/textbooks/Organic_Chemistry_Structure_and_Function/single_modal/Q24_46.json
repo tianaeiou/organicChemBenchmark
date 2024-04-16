@@ -1,0 +1,10 @@
+{
+  "type": "free answer",
+  "num_questions": 5,
+  "difficulty": "",
+  "required_ability": "",
+  "prompt_template": "",
+  "chapter": "24-46",
+  "question": "Which of the following glucoses and glucose derivatives are capable of undergoing mutarotation? \n\n**(a)** $\\alpha$-D-Glucopyranose; \n\n**(b)** methyl $\\alpha$-D-glucopyranoside; \n\n**(c)** methyl $\\alpha$-2,3,4,6-tetra-*O*-methyl-d- glucopyranoside (i.e., the tetramethyl ether at carbon 2, 3, 4, and 6); \n\n**(d)** $\\alpha$-2,3,4,6-tetra-*O*-methyl- D-glucopyranose; \n\n**(e)** $\\alpha$-D-glucopyranose 1,2-acetone acetal.",
+  "memo": ""
+}

@@ -1,0 +1,10 @@
+{
+  "type": "multi-choice",
+  "num_questions": 1,
+  "difficulty": "preprofessional",
+  "required_ability": "",
+  "prompt_template": "",
+  "chapter": "17-67",
+  "question": "Which of the following reagents converts benzenecarbaldehyde (benzaldehyde) into an oxime? **(a)** $H_2NNHC_6H_5$; **(b)** $H_2NNH_2$; **(c)** $O_3$; **(d)** $H_2NOH$; **(e)** $CH_3CH(OH)_2$.",
+  "memo": ""
+}

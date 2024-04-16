@@ -1,0 +1,10 @@
+{
+  "type": "multi-choice",
+  "num_questions": 1,
+  "difficulty": "preprofessional",
+  "required_ability": "",
+  "prompt_template": "",
+  "chapter": "16-59",
+  "question": "Which of the following reactions is an electrophilic aromatic substitution?\n(a) $\\ce{C_6H_{12}->[Se, 300\\degree C]C_6H_6}$\n\n(b) $\\ce{C_6H_5_CH_3->[Cl_2, hv]C_6H_5CH_2Cl}$\n\n(c) $\\ce{C_6H_6 + (CH_3)_2CHOH->[BF_3, 60\\degree C]C_6H_5CH(CH_3)_2}$\n\n(d) $\\ce{C_6H_5Br->[Mg, ether]C_6H_5MgBr}$",
+  "memo": ""
+}

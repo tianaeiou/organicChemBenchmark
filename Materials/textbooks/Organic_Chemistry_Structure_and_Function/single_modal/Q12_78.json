@@ -1,0 +1,10 @@
+{
+  "type": "multi-choice",
+  "num_questions": 1,
+  "difficulty": "preprofessional",
+  "required_ability": "",
+  "prompt_template": "",
+  "chapter": "12-78",
+  "question": "A chemist reacted 300 g of 1-butene with excess $Br_2$ (in $CCl_4$) at 258$\\degree$C. He isolated 418 g of 1,2-dibromobutane. What is the percent yield? (Atomic weights: $C$ = 12.0, $H$ = 1.00, $Br$ = 80.0.) **(a)** 26; **(b)** 36; **(c)** 46; **(d)** 56; **(e)** 66.",
+  "memo": ""
+}

@@ -1,0 +1,10 @@
+{
+  "type": "free answer",
+  "num_questions": 5,
+  "difficulty": "",
+  "required_ability": "",
+  "prompt_template": "",
+  "chapter": "14-70",
+  "question": "What is the longest-wavelength electronic transition in each of the following species? Use molecular-orbital designations such as $\\ce{\\pi -> \\pi^*}$,$\\ce{\\pi_1 -> \\pi_2}$ in your answer.  **(a)** 2-Propenyl (allyl) cation; **(b)** 2-propenyl (allyl) radical; **(c)** formaldehyde, $\\ce{H_2C=O}$; **(d)** $\\ce{N_2}$; **(e)**1,3,5-hexatriene.",
+  "memo": ""
+}

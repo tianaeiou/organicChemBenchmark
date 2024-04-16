@@ -1,0 +1,10 @@
+{
+  "type": "free answer",
+  "num_questions": 1,
+  "difficulty": "",
+  "required_ability": "",
+  "prompt_template": "",
+  "chapter": "26-52",
+  "question": "The polypeptide bradykinin is a tissue hormone that can function as a potent pain-producing agent. By means of a single treatment with the Edman reagent, the N-terminal amino acid in bradykinin is identified as Arg. Incomplete acid hydrolysis of the intact polypeptide causes random cleavage of many bradykinin molecules into an assortment of peptide fragments that includes Arg-Pro-Pro- Gly, Phe-Arg, Ser-Pro-Phe, and Gly-Phe-Ser. Complete hydrolysis followed by amino acid analy- sis indicates a ratio of 3 Pro, 2 Phe, 2 Arg, and one each of Gly and Ser. Deduce the amino acid sequence of bradykinin.",
+  "memo": ""
+}

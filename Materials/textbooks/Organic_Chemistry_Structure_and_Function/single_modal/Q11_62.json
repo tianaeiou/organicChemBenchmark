@@ -1,0 +1,10 @@
+{
+  "type": "free answer/calculate",
+  "num_questions": 6,
+  "difficulty": "",
+  "required_ability": "",
+  "prompt_template": "",
+  "chapter": "11-62",
+  "question": "Calculate the degree of unsaturation that corresponds to each of the following molecular formulas. **(a)** $C_7H_{12}$; **(b)** $C_8H_7NO_2$; **(c)** $C_6Cl_6$; **(d)** $C_{10}H_{22}O_{11}$; **(e)** $C_6H_{10}S$; **(f )** $C_{18}H_{28}O_2$.",
+  "memo": ""
+}

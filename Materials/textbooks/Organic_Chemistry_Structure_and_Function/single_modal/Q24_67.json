@@ -1,0 +1,10 @@
+{
+  "type": "multi-choice",
+  "num_questions": 4,
+  "difficulty": "",
+  "required_ability": "",
+  "prompt_template": "",
+  "chapter": "24-67",
+  "question": "Which one of the following statements is *true* about the oxacyclohexane conformer of the sugar $\\beta$-D-(+)-glucopyranose?\n\n**(a)** One $\\ce{OH}$ group is axial, but all remaining substituents are equatorial. **(b)** The $\\ce{CH_2OH}$ group is axial, but all remaining groups are equatorial. **(c)** All groups are axial. **(d)** All groups are equatorial.",
+  "memo": ""
+}

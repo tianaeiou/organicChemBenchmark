@@ -1,0 +1,10 @@
+{
+  "type": "free answer",
+  "num_questions": 9,
+  "difficulty": "",
+  "required_ability": "",
+  "prompt_template": "",
+  "chapter": "13-44",
+  "question": "Give the expected major product of the reaction of propyne with each of the following reagents.\n\n**(a)** $\\ce{D_2}, \\ce{Pd–CaCO_3}, \\ce{Pb(O_2CCH_3)_2}$, quinoline;  **(b)** $\\ce{Na}$, $\\ce{ND_3}$; **(c)** 1 equivalent $\\ce{HI}$; **(d)** 2 equivalents $\\ce{HI}$; **(e)** 1 equivalent $\\ce{Br_2}$; **(f)** 1 equivalent $\\ce{ICl}$; **(g)** 2 equivalents $\\ce{ICl}$; **(h)** $\\ce{H_2O}, \\ce{HgSO_4}, \\ce{H_2SO_4}$;  **(i)** dicyclohexylborane, then $\\ce{NaOH}, \\ce{H_2O_2}$.",
+  "memo": ""
+}

@@ -1,0 +1,10 @@
+{
+  "type": "multi-choice",
+  "num_questions": 1,
+  "difficulty": "preprofessional",
+  "required_ability": "",
+  "prompt_template": "",
+  "chapter": "16-62",
+  "question": "A volume of 135 mL of benzene was treated with excess $\\ce{Cl_2}$ and $\\ce{AlCl_3}$ to yield 50 mL of chlorobenzene. Given the atomic weights of $C = 12.0$, $H =1.00$, and $Cl = 35.5$, and the densities of benzene, $0.78 \\ g \\ mL^{-1}$, and chlorobenzene, 1.10 g mL21, the percent yield is closest to **(a)** 15; **(b)** 26; **(c)** 35; **(d)** 46; **(e)** 55.",
+  "memo": ""
+}

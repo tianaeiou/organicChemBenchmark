@@ -1,0 +1,10 @@
+{
+  "type": "multi-choice",
+  "num_questions": 1,
+  "difficulty": "preprofessional",
+  "required_ability": "",
+  "prompt_template": "",
+  "chapter": "21-65",
+  "question": "Rank the basicities of the following three nitrogen-containing compounds (most basic first):\n\nA: $\\ce{NH_3}$, B:$\\ce{CH_3NH_2}$, C: $(CH_3)_4N^+NO_3^-$\n\n**(a)** A>B>C; **(b)** B>C>A; **(c)** C>A>B;**(d)** C>B>A; **(e)** B>A>C.",
+  "memo": ""
+}

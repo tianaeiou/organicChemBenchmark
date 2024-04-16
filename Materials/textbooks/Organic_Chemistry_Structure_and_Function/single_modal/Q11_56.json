@@ -1,0 +1,10 @@
+{
+  "type": "free answer",
+  "num_questions": 6,
+  "difficulty": "",
+  "required_ability": "",
+  "prompt_template": "",
+  "chapter": "11-56",
+  "question": "You have just entered the chemistry stockroom to look for several isomeric bromopentanes. There are three bottles on the shelf marked $C_5H_{11}Br$, but their labels have fallen off. The NMR machine is broken, so you devise the following experiment in an attempt to determine which isomer is in which bottle: You first treat a sample of the contents in each bottle with $NaOH$ in aqueous ethanol, and then you determine the IR spectrum of each product or product mixture. Here are the results:\n **(i)** $C_5H_{11}Br$ isomer in bottle  $A\\stackrel{NaOH}{\\longrightarrow} IR$  bands at 1660, 2850-3020, and 3350 $cm^{-1}$\n **(ii)** $C_5H_{11}Br$ isomer in bottle $B\\stackrel{NaOH}{\\longrightarrow} IR$  bands at 1670 and 2850-3020 $cm^{-1}$\n **(iii)** $C_5H_{11}Br$ isomer in bottle $C\\stackrel{NaOH}{\\longrightarrow} IR$  bands at 2850-2960 and 3350 $cm^{-1}$\n\n**(a)** What do the data tell you about each product or product mixture? **(b)** Suggest possible structures for the contents of each bottle.",
+  "memo": ""
+}

@@ -1,0 +1,10 @@
+{
+  "type": "free answer",
+  "num_questions": 3,
+  "difficulty": "",
+  "required_ability": "",
+  "prompt_template": "",
+  "chapter": "18-47",
+  "question": "Write all possible products of the base-catalyzed crossed aldol reactions between each pair of reaction partners given below. (Hint: Multiple products are possible in every case; be sure to include thermodynamically unfavorable as well as favorable ones.)\n(a) Butanal and acetaldehyde\n(b) 2,2-Dimethylpropanal and acetophenone \n(c) Benzaldehyde and 2-butanone",
+  "memo": ""
+}

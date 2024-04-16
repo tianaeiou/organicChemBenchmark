@@ -1,0 +1,10 @@
+{
+  "type": "multi-choice",
+  "num_questions": 1,
+  "difficulty": "preprofessional",
+  "required_ability": "",
+  "prompt_template": "",
+  "chapter": "17-68",
+  "question": "Which of the following statements is correct? In the $IR$ spectrum of 3-methyl-2-butanone, the most intense absorption is at **(a)** $3400 \\ cm^{-1}$, owing to an OH stretching mode; **(b)** $1700 \\ cm^{-1}$, owing to a $\\ce{C=O}$ stretching mode; **(c)** $2000 \\ cm^{-1}$, owing to a $\\ce{CH}$ stretching mode; **(d)** $1500 \\ cm^{-1}$, owing to the rocking of an isopropyl group.",
+  "memo": ""
+}

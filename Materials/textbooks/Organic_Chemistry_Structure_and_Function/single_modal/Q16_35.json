@@ -1,0 +1,10 @@
+{
+  "type": "free answer",
+  "num_questions": 4,
+  "difficulty": "",
+  "required_ability": "",
+  "prompt_template": "",
+  "chapter": "16-35",
+  "question": "Write the structure(s) of the major product(s) that you expect from each of the following electrophilic aromatic substitutions. (a) Nitration of methylbenzene (toluene); (b) sulfonation of methylbenzene (toluene); (c) nitration of 1,1-dimethylethylbenzene (tert-butylbenzene); (d) sulfonation of 1,1-dimethylethylbenzene (tert-butylbenzene).\n\nIn what way does changing the substrate structures from methylbenzene (toluene) in (a) and (b) to 1,1-dimethylethylbenzene (tert-butylbenzene) in (c) and (d) affect the expected product distributions?",
+  "memo": ""
+}

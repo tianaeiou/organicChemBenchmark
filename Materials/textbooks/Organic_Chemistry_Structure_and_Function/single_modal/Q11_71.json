@@ -1,0 +1,10 @@
+{
+  "type": "multi-choice",
+  "num_questions": 1,
+  "difficulty": "preprofessional",
+  "required_ability": "",
+  "prompt_template": "",
+  "chapter": "11-71",
+  "question": "What is the degree of unsaturation in cyclobutane? \n\n**(a)** Zero; \n\n**(b)** one; \n\n**(c)** two; \n\n**(d)** three",
+  "memo": ""
+}

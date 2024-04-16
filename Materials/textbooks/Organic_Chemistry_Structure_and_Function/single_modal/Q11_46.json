@@ -1,0 +1,10 @@
+{
+  "type": "free answer",
+  "num_questions": 3,
+  "difficulty": "",
+  "required_ability": "",
+  "prompt_template": "",
+  "chapter": "11-46",
+  "question": "Compare and contrast the major products of dehydrohalogenation of 2-chloro-4-methylpentane with **(a)** sodium ethoxide in ethanol and **(b)** potassium *tert*-butoxide in 2-methyl-2-propanol (*tert*-butyl alcohol). Write the mechanism of each process. Next consider the reaction of 4-methyl-2-pentanol with concentrated H2SO4 at 1308C, and compare its product(s) and the mechanism of its (their) formation with those from the dehydrohalogenations in (a) and (b). (**Hint:** The dehydration gives as its major product a molecule that is not observed in the dehydrohalogenations.)",
+  "memo": ""
+}

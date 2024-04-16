@@ -1,0 +1,10 @@
+{
+  "type": "multi-choice",
+  "num_questions": 1,
+  "difficulty": "preprofessional",
+  "required_ability": "",
+  "prompt_template": "",
+  "chapter": "12-81",
+  "question": "When 1-pentene is treated with mercuric acetate, followed by sodium borohydride, which of the following compounds is the resulting product? **(a)** 1-Pentyne; **(b)** pentane; **(c)** 1-pentanol; **(d)** 2-pentanol.",
+  "memo": ""
+}

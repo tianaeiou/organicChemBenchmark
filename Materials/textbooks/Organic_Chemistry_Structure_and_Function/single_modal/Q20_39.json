@@ -1,0 +1,10 @@
+{
+  "type": "free answer",
+  "num_questions": 6,
+  "difficulty": "",
+  "required_ability": "",
+  "prompt_template": "",
+  "chapter": "20-39",
+  "question": "Give the products of reaction of methyl pentanoate with each of the following reagents under the conditions shown.\n\n**(a)** $\\ce{NaOH}$, $\\ce{H_2O}$, heat; then $\\ce{H^+}$, $\\ce{H_2O}$\n\n**(b)** $\\ce{(CH_3)_2CHCH_2CH_2OH}$ (excess), $\\ce{H^+}$\n\n**(c)** $\\ce{(CH_3CH_2)_2NH}$\u200B, heat\n\n**(d)** $\\ce{CH_3MgI}$ (excess), $\\ce{(CH_3CH_2)_2O}$;  then $\\ce{H^+}$, $\\ce{H_2O}$\n\n**(e)** $\\ce{LiAlH_4}$, $\\ce{(CH_3CH_2)_2O}$; then $\\ce{H^+}$, $\\ce{H_2O}$\n\n**(f)** $\\ce{[(CH_3)_2CHCH_2]_2AlH}$, toluene, low temperature; then $\\ce{H^+}$, $\\ce{H_2O}$",
+  "memo": ""
+}

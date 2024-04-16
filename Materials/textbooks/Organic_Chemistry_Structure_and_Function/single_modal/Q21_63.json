@@ -1,0 +1,10 @@
+{
+  "type": "multi-choice",
+  "num_questions": 1,
+  "difficulty": "preprofessional",
+  "required_ability": "",
+  "prompt_template": "",
+  "chapter": "21-63",
+  "question": "One of the following four amines is tertiary. Which one? **(a)** Propanamine; **(b)** *N*-methylethanamine;\n\n**(c)** *N*,*N*-dimethylmethanamine; **(d)** *N*-methylpropanamine.",
+  "memo": ""
+}

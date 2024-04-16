@@ -1,0 +1,10 @@
+{
+  "type": "free answer",
+  "num_questions": 1,
+  "difficulty": "",
+  "required_ability": "",
+  "prompt_template": "",
+  "chapter": "17-62",
+  "question": "In 1862, it was discovered that cholesterol is converted into a new substance named coprostanol by the action of bacteria in the human digestive tract. Make use of the following information to deduce the structure of coprostanol. Identify the structures of unknowns $J$ through $M$ as well. (i) Coprostanol, upon treatment with $\\ce{Cr(VI)}$ reagents, gives compound $J$, $UV\\ \\lambda_{max}(\\epsilon)= 281(22) \\ nm$  and $IR=1710\\ cm^{-1}$. (ii) Exposure of cholesterol to $H_2$ over $Pt$ results in compound $K$, a stereoisomer of coprostanol. Treatment of $K$ with the $\\ce{Cr(VI)}$ reagent furnishes compound $L$, which has a $UV$ peak very similar to that of compound $J$, $\\lambda_{max}(\\epsilon) = 258(23) \\ nm$, and turns out to be a stereoisomer of $J$. (iii) Careful addition of $\\ce{Cr(VI)}$ reagent to cholesterol produces $M$: $UV\\ \\lambda_{max}(\\epsilon) = 286(109) \\ nm$ . Catalytic hydrogenation of $M$ over $Pt$ also gives $L$.",
+  "memo": ""
+}

@@ -1,0 +1,10 @@
+{
+  "type": "free answer",
+  "num_questions": 1,
+  "difficulty": "",
+  "required_ability": "",
+  "prompt_template": "",
+  "chapter": "18-49",
+  "question": "Aldol condensations may be catalyzed by acids. Suggest a role for $\\ce{H^+}$ in the acid-catalyzed version. (Hint: Consider what kind of nucleophile might exist in acidic solution, where enolate ions are unlikely to be present.)",
+  "memo": ""
+}

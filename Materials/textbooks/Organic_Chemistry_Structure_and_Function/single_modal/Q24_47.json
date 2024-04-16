@@ -1,0 +1,10 @@
+{
+  "type": "free answer",
+  "num_questions": 3,
+  "difficulty": "",
+  "required_ability": "",
+  "prompt_template": "",
+  "chapter": "24-47",
+  "question": "**(a)** Explain why the oxygen at C1 of an aldopyranose can be methylated so much more easily than the other oxygens in the molecule. **(b)** Explain why the methyl ether unit at C1 of a fully methylated aldopyranose can be hydrolyzed so much more easily than the other methyl ether functions in the molecule. **(c)** Write the expected product(s) of the following reaction.\n\n$\\ce{D-Fructose ->[CH_3OCH_3, 0.25\\% HCl, H_2O]}$",
+  "memo": ""
+}

@@ -1,0 +1,10 @@
+{
+  "type": "free answer",
+  "num_questions": 2,
+  "difficulty": "",
+  "required_ability": "",
+  "prompt_template": "",
+  "chapter": "17-27",
+  "question": "The following spectroscopic data are for two carbonyl compounds with the formula $\\ce{C_8H_{12}O}$. Suggest a structure for each compound. The letter “m” stands for the appearance of this particular part of the spectrum as an uninterpretable multiplet. (a) $\\ce{^1H}$ NMR: $\\delta$ =1.60 (m, 4 H), 2.15 (s, 3 H), 2.19 (m, 4 H), and 6.78 (t, 1 H) ppm. $^{13}C$ NMR: $\\delta$ =  21.8, 22.2, 23.2, 25.0, 26.2, 139.8, 140.7, and 198.6 ppm. (b) $\\ce{^1H}$ NMR: $\\delta$ =0.94 (t, 3 H), 1.48 (sex, 2 H), 2.21 (q, 2 H), 5.8–7.1 (m, 4 H), and 9.56 (d, 1 H) ppm.  $^{13}C$ NMR: $\\delta$ = 13.6, 21.9, 35.2, 129.0, 135.2, 146.7, 152.5, and 193.2 ppm.",
+  "memo": ""
+}

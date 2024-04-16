@@ -1,0 +1,10 @@
+{
+  "type": "free answer",
+  "num_questions": 2,
+  "difficulty": "",
+  "required_ability": "",
+  "prompt_template": "",
+  "chapter": "15-53",
+  "question": "**(a)** 3-Phenylpropanoyl chloride, $\\ce{C_6H_5CH_2CH_2COC}l$, reacts with $\\ce{AlCl_3}$ to give a single product with the formula $\\ce{C_9H_8O}$ and an $\\ce{^1H}$ NMR spectrum with signals at $\\delta = 2.53$  ($t, J = 8 \\ Hz, 2\\ H$), 3.02 ($t, J = 8 \\ Hz, 2\\ H$), and 7.2–7.7 (m, 4 H) ppm. Propose a structure and a mechanism for the formation of this product.\n\n**(b)** The product of the process described in (a) is subjected to the following reaction sequence: (1) $\\ce{NaBH_4}, \\ce{CH_3CH_2OH}$; (2) Conc. $\\ce{H_2SO_4}$, $100\\degree C$; (3) $\\ce{H_2}, \\ce{Pd–C}, \\ce{CH_3CH_2OH}$. The final product exhibits five resonance lines in its $\\ce{^13C}$ NMR spectrum. What is the structure of the substance formed after each of the steps in this sequence?",
+  "memo": ""
+}

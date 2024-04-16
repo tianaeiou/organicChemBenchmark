@@ -1,0 +1,10 @@
+{
+  "type": "free answer/rank",
+  "num_questions": 1,
+  "difficulty": "",
+  "required_ability": "",
+  "prompt_template": "",
+  "chapter": "25-35",
+  "question": "Rank the following compounds in increasing order of basicity: water, hydroxide, pyridine, pyrrole, ammonia.\n\n",
+  "memo": ""
+}

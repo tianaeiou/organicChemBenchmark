@@ -1,0 +1,10 @@
+{
+  "type": "multi-choice",
+  "num_questions": 1,
+  "difficulty": "",
+  "required_ability": "",
+  "prompt_template": "",
+  "chapter": "25-68",
+  "question": "How many stereocenters are present in the small, naturally occurring protein glycylalanylalanine? (a) Zero; (b) one; (c) two; (d) three.",
+  "memo": ""
+}

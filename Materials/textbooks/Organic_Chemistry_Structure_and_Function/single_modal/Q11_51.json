@@ -1,0 +1,10 @@
+{
+  "type": "free answer",
+  "num_questions": 6,
+  "difficulty": "",
+  "required_ability": "",
+  "prompt_template": "",
+  "chapter": "11-51",
+  "question": "The molecular formulas and $^{13}C$ NMR data (in ppm) for several compounds are given here. The type of carbon, as revealed from DEPT spectra, is specified in each case. Deduce a structure for each compound. **(a)** $C_4H_6$: 30.2 ($CH_2$), 136.0 ($CH$); **(b)** $C_4H_6O$: 18.2 ($CH_3$), 134.9 ($CH$), 153.7 ($CH$), 193.4 ($CH$); **(c)** $C_4H_8$: 13.6 ($CH_3$), 25.8 ($CH_2$), 112.1 ($CH_2$), 139.0 ($CH$); **(d)** $C_5H_{10}O$: 17.6 ($CH_3$), 25.4 ($CH_3$), 58.8 ($CH_2$), 125.7 ($CH$), 133.7 ($C_{quaternary}$); **(e)** $C_5H_8$: 15.8 ($CH_2$), 31.1 ($CH_2$), 103.9 ($CH_2$), 149.2 ($C_{quaternary}$); **(f)** $C_7H_{10}$: 25.2 ($CH_2$), 41.9 ($CH$), 48.5 ($CH_2$), 135.2 ($CH$). (**Hint:** This one is difficult. The molecule has one double bond. How many rings must it have?)",
+  "memo": ""
+}

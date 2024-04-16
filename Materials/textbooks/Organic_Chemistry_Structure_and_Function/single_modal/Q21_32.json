@@ -1,0 +1,10 @@
+{
+  "type": "free answer",
+  "num_questions": 5,
+  "difficulty": "",
+  "required_ability": "",
+  "prompt_template": "",
+  "chapter": "21-32",
+  "question": "The following spectroscopic data ($^{13}C$ NMR and $IR$) are for several isomeric amines of the formula $\\ce{C_6H_{15}N}$. Propose a structure for each compound. \n\n**(a)** $^{13}C$ NMR: $\\delta = 23.7$ $\\ce{(CH_3)}$ and 45.3 ($\\ce{(CH)}$) ppm. IR: 3300 $cm^{-1}$. \n\n**(b)** $^{13}C$ NMR: $\\delta$ = 12.6 ($\\ce{(CH_3)}$ ) and 46.9 ($\\ce{(CH_2)}$ ) ppm. $IR$: no bands in 3250–3500  $cm^{-1}$ range. \n\n**(c)** $^{13}C$ NMR: $\\delta$ = 12.0 ($\\ce{(CH_3)}$ ), 23.9 (CH2), and 52.3 (CH2) ppm. $IR$: 3280 $cm^{-1}$. \n\n**(d)** $^{13}C$  NMR: $\\delta$ =14.2 ($\\ce{(CH_3)}$), 23.2 ($\\ce{(CH_2)}$), 27.1 ($\\ce{(CH_2)}$), 32.3 ($\\ce{(CH_2)}$), 34.6 ($\\ce{(CH_2)}$), and 42.7 ($\\ce{(CH_2)}$) ppm. $IR$: 1600 (broad), 3280, and 3365 $cm^{-1}$. \n\n**(e)** $^{13}C$ NMR: $\\delta$ = 25.6 (CH3), 38.7 ($\\ce{(CH_3)}$), and 53.2 ($C_{quaternary}$) ppm. $IR$: no bands in 3250–3500 $cm^{-1}$ region.",
+  "memo": ""
+}

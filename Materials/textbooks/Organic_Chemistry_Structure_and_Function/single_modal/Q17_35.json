@@ -1,0 +1,10 @@
+{
+  "type": "free answer",
+  "num_questions": 3,
+  "difficulty": "",
+  "required_ability": "",
+  "prompt_template": "",
+  "chapter": "17-35",
+  "question": "Give the expected products of reaction of 4-acetylcyclohexene with each of the reagents.\n\n**(a)** $\\ce{LiAlH_4}$, $\\ce{(CH_3CH_2)_2O}$, then $\\ce{H^+}$, $\\ce{H_2O}$\n\n**(b)** $\\ce{CH_3CH_2MgBr}$, $\\ce{(CH_3CH_2)_2O}$,  then $\\ce{H^+}$, $\\ce{H_2O}$\n\n**(c)** $HOCH_2CH_2OH$, $\\ce{H^+}$\n\n",
+  "memo": ""
+}

@@ -1,0 +1,10 @@
+{
+  "type": "free answer",
+  "num_questions": 3,
+  "difficulty": "",
+  "required_ability": "",
+  "prompt_template": "",
+  "chapter": "11-52",
+  "question": "Data from both ordinary and DEPT $^{13}C$ NMR spectra for several compounds with the formula $C_5H_{10}$ are given here. Deduce a structure for each compound. **(a)** 25.3 ($CH_2$); **(b)** 13.3 ($CH_3$), 17.1 ($CH_3$), 25.5 ($CH_3$), 118.7 ($CH$), 131.7 (Cquaternary); **(c)** 12.0 ($CH_3$), 13.8 ($CH_3$), 20.3 ($CH_2$), 122.8 ($CH$), 132.4 ($CH$).",
+  "memo": ""
+}

@@ -1,0 +1,10 @@
+{
+  "type": "free answer",
+  "num_questions": 3,
+  "difficulty": "",
+  "required_ability": "",
+  "prompt_template": "",
+  "chapter": "20-53",
+  "question": "Nylon-6,6 was the first completely synthetic fiber, initially prepared in the mid-1930s at DuPont. It is a copolymer whose subunits are alternating molecules of 1,6-hexanediamine and hexanedioic (adipic) acid, linked by amide functions. **(a)** Write a structural representation of Nylon-6,6. **(b)** Hexanedinitrile (adiponitrile) may be used as a common precursor to both 1,6-hexanediamine and hexanedioic acid. Show the reactions necessary to convert the dinitrile into both the diamine and the diacid. **(c)** Formulate a mechanism for the conversion into the diacid under the reaction conditions that you chose in **(b)**.",
+  "memo": ""
+}

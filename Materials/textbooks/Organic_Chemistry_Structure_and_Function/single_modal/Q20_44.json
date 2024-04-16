@@ -1,0 +1,10 @@
+{
+  "type": "free answer",
+  "num_questions": 8,
+  "difficulty": "",
+  "required_ability": "",
+  "prompt_template": "",
+  "chapter": "20-44",
+  "question": "Suggest reagents to convert each of the following starting materials into the indicated product: **(a)** hexanoyl chloride into acetic hexanoic anhydride; **(b)** methyl hexanoate into *N*-methylhexanamide; **(c)** hexanoyl chloride into hexanal; **(d)** hexanenitrile into hexanoic acid; **(e)** hexanamide into hexanamine; **(f)** hexanamide into pentanamine; **(g)** ethyl hexanoate into 3-ethyl-3-octanol; **(h)** hexanenitrile into 1-phenyl-1-hexanone $\\ce{[C_6H_5CO(CH_2)_4CH_3]}$.",
+  "memo": ""
+}

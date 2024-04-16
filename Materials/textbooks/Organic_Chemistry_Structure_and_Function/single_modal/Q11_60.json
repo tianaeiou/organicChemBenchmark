@@ -1,0 +1,10 @@
+{
+  "type": "free answer",
+  "num_questions": 3,
+  "difficulty": "",
+  "required_ability": "",
+  "prompt_template": "",
+  "chapter": "11-60",
+  "question": "The following table lists selected mass-spectral data for three isomeric alcohols with the formula $C_5H_{12}O$. On the basis of the peak positions and intensities, suggest structures for each of the three isomers. A dash means that the peak is very weak or absent entirely.\n\nRelative Peak Intensities\n\n| m/z             | Isomer A | Isomer B | Isomer C |\n| --------------- | -------- | -------- | -------- |\n| $88M^+$         | -        | -        | -        |\n| $87(M-1)^+$     | 2        | 2        | -        |\n| $73(M-15)^+$    | -        | 7        | 55       |\n| $70(M-18)^+$    | 38       | 3        | 3        |\n| $59(M-29)^+$    | -        | -        | 100      |\n| $55(M-15-18)^+$ | 60       | 17       | 33       |\n| $45(M-43)^+$    | 5        | 100      | 10       |\n| $42(M-18-28)^+$ | 100      | 4        | 6        |",
+  "memo": ""
+}

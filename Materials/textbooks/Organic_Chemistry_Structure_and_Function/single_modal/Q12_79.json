@@ -1,0 +1,10 @@
+{
+  "type": "multi-choice",
+  "num_questions": 1,
+  "difficulty": "preprofessional",
+  "required_ability": "",
+  "prompt_template": "",
+  "chapter": "12-79",
+  "question": "*trans*-3-Hexene and *cis*-3-hexene differ in one of the following ways. Which one? **(a)** Products of hydrogenation; **(b)** products of ozonolysis; **(c)** products of $Br_2$ addition in $CCl_4$; **(d)** products of hydroboration–oxidation; **(e)** products of combustion.",
+  "memo": ""
+}
